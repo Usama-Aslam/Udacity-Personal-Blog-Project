@@ -1,13 +1,18 @@
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 14px;
   line-height: 1.6;
   background-color: #f5f6f8;
   color: #222;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Playfair Display', serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", serif;
   margin: 0.2em 0;
 }
 
@@ -29,7 +34,6 @@ h4 {
 
 h5 {
   font-size: 1.5em;
-
 }
 
 h6 {
@@ -37,7 +41,7 @@ h6 {
 }
 
 p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-align: left;
   font-size: 1em;
   margin: 1em 0 0;
@@ -54,7 +58,6 @@ em {
 }
 
 u {
-
 }
 
 a {
@@ -92,7 +95,9 @@ blockquote:first-letter {
   padding-left: 3px;
 }
 
-ul, ol, dl {
+ul,
+ol,
+dl {
   text-align: left;
 }
 
